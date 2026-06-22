@@ -1,5 +1,5 @@
 
-<h3 align="center">A Frontend developer in Moscow<h3/>
+<h3 align="left">A Frontend developer in Moscow<h3/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gwizxs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
